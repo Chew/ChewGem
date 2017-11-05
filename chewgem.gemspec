@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors = ['Chew']
   s.email = ['chew@chew.pw']
   s.homepage = 'http://github.com/Chewsterchew/ChewGem'
-  s.files = Dir['LICENSE', 'README.md', '{lib}/**/*']
+  s.files = ['lib/add.rb']
   s.has_rdoc = 'yard'
   s.license = 'MIT'
 end
