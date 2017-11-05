@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'ChewGem'
+  s.name = 'chewgem'
   s.version = '0.0.1'
   s.summary = 'A gem by chew, with various but useless functions'
   s.description = 'Chews gem, dont tuch'
