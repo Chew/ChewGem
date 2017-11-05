@@ -1,6 +1,6 @@
 # Version 1.0.0
-class self.add
-  def add(a, b)
+class Add
+  def self.add(a, b)
     a + b
   end
 end
